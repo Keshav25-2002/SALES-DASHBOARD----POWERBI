@@ -45,5 +45,18 @@ forecast future sales, and recommend actionable strategies for maximizing revenu
 
 3. User Authentication and Security: Implementing user authentication and role-based access control would enhance the security and privacy of the dashboard, ensuring that only authorized individuals can access sensitive sales data.
 
-4. Mobile-Friendly Design: Optimizing the dashboard for mobile devices would allow users to access and interact with the sales data on the go, providing flexibility and convenience.
+4. Mobile-Friendly Design: Optimizing the dashboard for mobile devices would allow users to access and interact with the sales data on the go, providing flexibility and convenience
 
+
+PROJECT DEMONSTRATION: 
+
+![2018 dashboard](https://github.com/Keshav25-2002/SALES-DASHBOARD----POWERBI/assets/85608027/de7fe5fb-8ed2-4006-bc7f-dda8360530b4)
+
+
+![2019](https://github.com/Keshav25-2002/SALES-DASHBOARD----POWERBI/assets/85608027/d5935517-8d46-4233-8f62-374f35f19f59)
+
+
+![2020](https://github.com/Keshav25-2002/SALES-DASHBOARD----POWERBI/assets/85608027/8dd5ff58-ecc2-4ca2-b20c-c600b9edd558)
+
+
+![2021](https://github.com/Keshav25-2002/SALES-DASHBOARD----POWERBI/assets/85608027/ad2d840e-0dfe-4e9c-9f3d-ff95e4e38dd8)
